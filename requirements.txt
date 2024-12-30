@@ -1,0 +1,4 @@
+pandas 
+numpy
+seaborn
+-e . # for building the setup.py
