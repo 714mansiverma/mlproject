@@ -1,4 +1,5 @@
 pandas 
 numpy
 seaborn
--e . # for building the setup.py
+matplotlib
+#-e . # for building the setup.py
